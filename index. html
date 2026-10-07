@@ -119,12 +119,7 @@
     <h2>Skills & Interests 💻</h2>
 
     <div class="skills">
-        <div class="skill">Biotechnology</div>
-        <div class="skill">Bioinformatics</div>
-        <div class="skill">Computational Biology</div>
-        <div class="skill">Data Analysis</div>
-        <div class="skill">Artificial Intelligence</div>
-        <div class="skill">Git & GitHub</div>
+        <div class="skill">Biotechnology(Beginner)</div>
     </div>
 </section>
 
@@ -132,21 +127,12 @@
     <h2>Projects 🔬</h2>
 
     <div class="project">
-        <h3>DNA Sequence Analysis</h3>
+        <h3>computational cancer mutation</h3>
         <p>
-            A beginner bioinformatics project exploring DNA sequences,
-            nucleotide composition and GC content.
+         i am currently gaining knowledge through a project based on computational cancer mutation. The project is helping me underdstand the relationship between 
+          cancer associated mutations,biological data andcomputational approaches.
         </p>
-        <p><strong>Status:</strong> Coming soon</p>
-    </div>
-
-    <div class="project">
-        <h3>Cancer Mutation Analysis</h3>
-        <p>
-            Exploring how computational approaches can be used to study
-            mutations associated with cancer.
-        </p>
-        <p><strong>Status:</strong> Learning & developing</p>
+        <p><strong>Status:</strong> Currently learning and developing</p>
     </div>
 </section>
 
