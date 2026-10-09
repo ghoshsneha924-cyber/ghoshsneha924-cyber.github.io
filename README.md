@@ -25,10 +25,11 @@ Currently gaining knowledge through the project based on computational cancer mu
 - Computational analysis of cancer mutations
 - DNA sequence analysis
 
-🚀 Future Goals
+## 🚀 Future Goals
 
 My goal is to build a career in Bioinformatics by combining biotechnology, computational biology, and data science to explore biological problems and contribute to scientific research.
-🔬 Research Interests
+
+## research interest
 
 - Bioinformatics and Computational Biology
 - Cancer Genomics and Mutation Analysis
